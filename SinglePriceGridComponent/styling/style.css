@@ -1,0 +1,38 @@
+.card-body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 00;
+}
+#lower-row-col-two{
+    background-color: #76ead7;
+}
+
+#lower-row-col-one{
+    background-color: #00bcd4;
+}
+
+#upper-row{
+    background-color: white;
+}
+
+#lower-row{
+    color: white;
+}
+
+#upper-row h2{
+    color: #00bcd4;
+}
+
+#upper-row p{
+    color: #8d93ab;
+}
+
+#upper-row h5{
+    color: #c4fb6d;
+}
+
+#lower-row a{
+    background-color: #c4fb6d;
+    width: 200px;
+    color: white;
+    align-items: center;
+}
